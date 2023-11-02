@@ -6,6 +6,7 @@ sample:
   env: ""
   appName: "sample"
   region: ""
+  test: "meansnothing"
 
 replicaCount: 1
 
